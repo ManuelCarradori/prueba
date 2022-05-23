@@ -1,5 +1,5 @@
-import { actualizarCarrito } from "/actualizarCarrito.js";
-import { mostrarProductos } from "/App.js";
+import { actualizarCarrito } from "./actualizarCarrito.js";
+import { mostrarProductos } from "./App.js";
 import { eliminarProductoCarrito } from "/carritoIndex.js";
 
 
